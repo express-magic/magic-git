@@ -2,6 +2,7 @@
   "name": "magic-git",
   "version": "0.0.1",
   "private": true,
+  "main": "git.js"
   "dependencies": {
     "magic-log": "express-magic/magic-log"
   },
