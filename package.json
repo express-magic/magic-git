@@ -4,10 +4,19 @@
   "private": true,
   "main": "git.js",
   "dependencies": {
-    "magic-log": "express-magic/magic-log"
+    "magic-log": "git+https://github.com/express-magic/magic-log"
   },
   "repository": {
     "type": "git",
     "url": "http://github.com/express-magic/magic-git.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/express-magic/magic-git/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/express-magic/magic-git",
+  "_id": "magic-git@0.0.1",
+  "_shasum": "c0b1d74288e0f20c1d0b330b7c7bbd3d0e011ffb",
+  "_resolved": "git+https://github.com/express-magic/magic-git#c6fe3a00f382f990e665b51c79b7d54fe1885494",
+  "_from": "magic-git@git+https://github.com/express-magic/magic-git"
 }
